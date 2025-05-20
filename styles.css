@@ -1,0 +1,56 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background: #f0f4f8;
+    color: #333;
+}
+
+header {
+    background: #012c46;
+    color: white;
+    padding: 1rem;
+}
+
+.logo {
+    width: 120px;
+    margin-bottom: 10px;
+}
+
+.gallery img {
+    width: 80%;
+    max-width: 300px;
+    margin: 10px;
+    border-radius: 8px;
+}
+
+.actions {
+    margin-top: 20px;
+}
+
+.btn {
+    display: inline-block;
+    margin: 10px;
+    padding: 12px 24px;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.facebook {
+    background-color: #1877f2;
+}
+
+.whatsapp {
+    background-color: #25d366;
+}
+
+footer {
+    margin-top: 40px;
+    padding: 1rem;
+    background-color: #012c46;
+    color: white;
+}
